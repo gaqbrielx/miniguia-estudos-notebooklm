@@ -1,5 +1,7 @@
 # 🧠 Miniguia de Estudos: IA Generativa e Produtividade com NotebookLM
 
+https://notebooklm.google.com/notebook/d9efc87e-ddac-4e22-92d3-7071015c7ee3
+
 ## 📖 Contexto e Objetivos
 Este projeto foi desenvolvido como parte de um desafio prático na **DIO (Digital Innovation One)**. O objetivo principal é explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando o **NotebookLM** para organizar e sintetizar conhecimentos.
 
@@ -51,8 +53,4 @@ Para alimentar a inteligência do NotebookLM, utilizei o seguinte material base:
 
 ---
 
-## 🚀 Como replicar este projeto
-1. Aceda ao [NotebookLM](https://notebooklm.google.com/).
-2. Faça o upload do documento "Guia de Estudos - IA Generativa e Produtividade".
-3. Utilize os prompts da seção "Toolkit" para interagir com o material.
 
